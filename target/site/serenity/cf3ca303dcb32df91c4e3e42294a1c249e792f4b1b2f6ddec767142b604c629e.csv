@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Filtering todos","View only completed items","SUCCESS","2021-08-03T11:10:41.3932923+07:00[Asia/Bangkok]","0.0","7.64"
+"Filtering todos","Viewing items by status in Cucumber","SUCCESS","2021-08-03T11:10:49.7553836+07:00[Asia/Bangkok]","0.0","19.48"

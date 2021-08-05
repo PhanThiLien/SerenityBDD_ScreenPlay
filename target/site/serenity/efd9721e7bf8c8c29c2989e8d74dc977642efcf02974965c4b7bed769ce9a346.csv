@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Add new todos","Adding an item to a list with other items","SUCCESS","2021-08-03T11:09:37.1624027+07:00[Asia/Bangkok]","0.0","33.61"
+"Add new todos","Adding items to several peoples lists","SUCCESS","2021-08-03T11:10:11.9270222+07:00[Asia/Bangkok]","0.0","21.07"
+"Add new todos","Adding an item to an empty list","SUCCESS","2021-08-03T11:10:34.3205339+07:00[Asia/Bangkok]","0.0","6.44"
+"Filtering todos","View only completed items","SUCCESS","2021-08-03T11:10:41.3932923+07:00[Asia/Bangkok]","0.0","7.64"
+"Filtering todos","Viewing items by status in Cucumber","SUCCESS","2021-08-03T11:10:49.7553836+07:00[Asia/Bangkok]","0.0","19.48"
