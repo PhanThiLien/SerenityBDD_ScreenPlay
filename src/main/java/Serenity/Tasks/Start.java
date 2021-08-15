@@ -8,19 +8,16 @@ import net.serenitybdd.screenplay.actions.Open;
 import net.serenitybdd.screenplay.conditions.Check;
 import net.thucydides.core.annotations.Step;
 
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
 import static net.serenitybdd.screenplay.Tasks.instrumented;
 
 public class Start implements Task {
-    private final String todoListDescription;
     private final List<String> todoItems;
     private HomePage homePage;
 
     public Start(String todoListDescription, List<String> todoItems) {
-        this.todoListDescription = todoListDescription;
         this.todoItems = todoItems;
     }
 

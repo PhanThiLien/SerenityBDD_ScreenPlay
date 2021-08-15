@@ -1,7 +1,5 @@
 package StepDefinition;
 
-import Serenity.Models.TaskStatus;
-
 import java.util.Arrays;
 import java.util.List;
 

@@ -1,7 +1,6 @@
 package Serenity.Tasks;
 
 import Serenity.Pages.BackBonePage;
-import Serenity.Target.BackBone;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.actions.Enter;
 import org.openqa.selenium.Keys;

@@ -4,7 +4,6 @@ import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
 import net.thucydides.core.annotations.Step;
 
-import java.util.Collection;
 import java.util.List;
 
 import static net.serenitybdd.screenplay.Tasks.instrumented;

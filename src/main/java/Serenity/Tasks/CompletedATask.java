@@ -3,15 +3,12 @@ package Serenity.Tasks;
 import Serenity.Pages.BackBonePage;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
-import net.serenitybdd.screenplay.actions.Click;
-import net.serenitybdd.screenplay.actions.JavaScriptClick;
-import net.serenitybdd.screenplay.actions.MoveMouse;
 
 import static net.serenitybdd.screenplay.Tasks.instrumented;
 
 public class CompletedATask implements Task {
 
-    private String taskName;
+    private final String taskName;
 
     public CompletedATask(String taskName) {
         this.taskName = taskName;
